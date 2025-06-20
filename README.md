@@ -1,2 +1,2 @@
-# AtliQ-Hardware-Sales-Insights-
+# AtliQ-Hardware-Sales-Insights
 Excel Sales Analytics Project 
